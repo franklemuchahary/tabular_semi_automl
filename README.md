@@ -1,1 +1,1 @@
-# tabular_semi_automl
+# Semi AutoML for Tabular Data
