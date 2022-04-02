@@ -1,0 +1,525 @@
+====== Validation Fold Number:  1  ======
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+building tree 1 of 30
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+building tree 2 of 30
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+building tree 3 of 30
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+building tree 4 of 30
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+building tree 5 of 30
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+building tree 6 of 30
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+building tree 7 of 30
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.1s remaining:    0.0s
+building tree 8 of 30
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.1s remaining:    0.0s
+building tree 9 of 30
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.1s remaining:    0.0s
+building tree 10 of 30
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.1s remaining:    0.0s
+building tree 11 of 30
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.1s remaining:    0.0s
+building tree 12 of 30
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.1s remaining:    0.0s
+building tree 13 of 30
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.1s remaining:    0.0s
+building tree 14 of 30
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.1s remaining:    0.0s
+building tree 15 of 30
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.1s remaining:    0.0s
+building tree 16 of 30
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.1s remaining:    0.0s
+building tree 17 of 30
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.1s remaining:    0.0s
+building tree 18 of 30
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.1s remaining:    0.0s
+building tree 19 of 30
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.1s remaining:    0.0s
+building tree 20 of 30
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.1s remaining:    0.0s
+building tree 21 of 30
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.2s remaining:    0.0s
+building tree 22 of 30
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.2s remaining:    0.0s
+building tree 23 of 30
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.2s remaining:    0.0s
+building tree 24 of 30
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.2s remaining:    0.0s
+building tree 25 of 30
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.2s remaining:    0.0s
+building tree 26 of 30
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.2s remaining:    0.0s
+building tree 27 of 30
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.2s remaining:    0.0s
+building tree 28 of 30
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.2s remaining:    0.0s
+building tree 29 of 30
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.2s remaining:    0.0s
+building tree 30 of 30
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s finished
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s finished
+
+
+
+Validation Current Fold LogLoss:  1.398591527945859
+
+================================================================================================
+
+
+
+====== Validation Fold Number:  2  ======
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+building tree 1 of 30
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+building tree 2 of 30
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+building tree 3 of 30
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+building tree 4 of 30
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+building tree 5 of 30
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+building tree 6 of 30
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+building tree 7 of 30
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+building tree 8 of 30
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.1s remaining:    0.0s
+building tree 9 of 30
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.1s remaining:    0.0s
+building tree 10 of 30
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.1s remaining:    0.0s
+building tree 11 of 30
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.1s remaining:    0.0s
+building tree 12 of 30
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.1s remaining:    0.0s
+building tree 13 of 30
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.1s remaining:    0.0s
+building tree 14 of 30
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.1s remaining:    0.0s
+building tree 15 of 30
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.1s remaining:    0.0s
+building tree 16 of 30
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.1s remaining:    0.0s
+building tree 17 of 30
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.1s remaining:    0.0s
+building tree 18 of 30
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.1s remaining:    0.0s
+building tree 19 of 30
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.1s remaining:    0.0s
+building tree 20 of 30
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.1s remaining:    0.0s
+building tree 21 of 30
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.2s remaining:    0.0s
+building tree 22 of 30
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.2s remaining:    0.0s
+building tree 23 of 30
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.2s remaining:    0.0s
+building tree 24 of 30
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.2s remaining:    0.0s
+building tree 25 of 30
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.2s remaining:    0.0s
+building tree 26 of 30
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.2s remaining:    0.0s
+building tree 27 of 30
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.2s remaining:    0.0s
+building tree 28 of 30
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.2s remaining:    0.0s
+building tree 29 of 30
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.2s remaining:    0.0s
+building tree 30 of 30
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s finished
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s finished
+
+
+
+Validation Current Fold LogLoss:  1.3492640828407212
+
+================================================================================================
+
+
+
+====== Validation Fold Number:  3  ======
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+building tree 1 of 30
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+building tree 2 of 30
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+building tree 3 of 30
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+building tree 4 of 30
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+building tree 5 of 30
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+building tree 6 of 30
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+building tree 7 of 30
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+building tree 8 of 30
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.1s remaining:    0.0s
+building tree 9 of 30
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.1s remaining:    0.0s
+building tree 10 of 30
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.1s remaining:    0.0s
+building tree 11 of 30
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.1s remaining:    0.0s
+building tree 12 of 30
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.1s remaining:    0.0s
+building tree 13 of 30
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.1s remaining:    0.0s
+building tree 14 of 30
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.1s remaining:    0.0s
+building tree 15 of 30
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.1s remaining:    0.0s
+building tree 16 of 30
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.1s remaining:    0.0s
+building tree 17 of 30
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.1s remaining:    0.0s
+building tree 18 of 30
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.1s remaining:    0.0s
+building tree 19 of 30
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.1s remaining:    0.0s
+building tree 20 of 30
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.1s remaining:    0.0s
+building tree 21 of 30
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.2s remaining:    0.0s
+building tree 22 of 30
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.2s remaining:    0.0s
+building tree 23 of 30
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.2s remaining:    0.0s
+building tree 24 of 30
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.2s remaining:    0.0s
+building tree 25 of 30
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.2s remaining:    0.0s
+building tree 26 of 30
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.2s remaining:    0.0s
+building tree 27 of 30
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.2s remaining:    0.0s
+building tree 28 of 30
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.2s remaining:    0.0s
+building tree 29 of 30
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.2s remaining:    0.0s
+building tree 30 of 30
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s finished
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s finished
+
+
+
+Validation Current Fold LogLoss:  1.2472820545086791
+
+================================================================================================
+
+
+
+====== Validation Fold Number:  4  ======
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+building tree 1 of 30
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+building tree 2 of 30
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+building tree 3 of 30
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+building tree 4 of 30
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+building tree 5 of 30
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+building tree 6 of 30
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+building tree 7 of 30
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.1s remaining:    0.0s
+building tree 8 of 30
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.1s remaining:    0.0s
+building tree 9 of 30
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.1s remaining:    0.0s
+building tree 10 of 30
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.1s remaining:    0.0s
+building tree 11 of 30
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.1s remaining:    0.0s
+building tree 12 of 30
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.1s remaining:    0.0s
+building tree 13 of 30
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.1s remaining:    0.0s
+building tree 14 of 30
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.1s remaining:    0.0s
+building tree 15 of 30
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.1s remaining:    0.0s
+building tree 16 of 30
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.1s remaining:    0.0s
+building tree 17 of 30
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.1s remaining:    0.0s
+building tree 18 of 30
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.1s remaining:    0.0s
+building tree 19 of 30
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.1s remaining:    0.0s
+building tree 20 of 30
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.1s remaining:    0.0s
+building tree 21 of 30
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.1s remaining:    0.0s
+building tree 22 of 30
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.2s remaining:    0.0s
+building tree 23 of 30
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.2s remaining:    0.0s
+building tree 24 of 30
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.2s remaining:    0.0s
+building tree 25 of 30
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.2s remaining:    0.0s
+building tree 26 of 30
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.2s remaining:    0.0s
+building tree 27 of 30
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.2s remaining:    0.0s
+building tree 28 of 30
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.2s remaining:    0.0s
+building tree 29 of 30
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.2s remaining:    0.0s
+building tree 30 of 30
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s finished
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s finished
+
+
+
+Validation Current Fold LogLoss:  1.3178577197537467
+
+================================================================================================
+
+
+
+====== Validation Fold Number:  5  ======
+
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+building tree 1 of 30
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+building tree 2 of 30
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+building tree 3 of 30
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+building tree 4 of 30
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+building tree 5 of 30
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+building tree 6 of 30
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+building tree 7 of 30
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.1s remaining:    0.0s
+building tree 8 of 30
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.1s remaining:    0.0s
+building tree 9 of 30
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.1s remaining:    0.0s
+building tree 10 of 30
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.1s remaining:    0.0s
+building tree 11 of 30
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.1s remaining:    0.0s
+building tree 12 of 30
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.1s remaining:    0.0s
+building tree 13 of 30
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.1s remaining:    0.0s
+building tree 14 of 30
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.1s remaining:    0.0s
+building tree 15 of 30
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.1s remaining:    0.0s
+building tree 16 of 30
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.1s remaining:    0.0s
+building tree 17 of 30
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.1s remaining:    0.0s
+building tree 18 of 30
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.1s remaining:    0.0s
+building tree 19 of 30
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.1s remaining:    0.0s
+building tree 20 of 30
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.1s remaining:    0.0s
+building tree 21 of 30
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.2s remaining:    0.0s
+building tree 22 of 30
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.2s remaining:    0.0s
+building tree 23 of 30
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.2s remaining:    0.0s
+building tree 24 of 30
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.2s remaining:    0.0s
+building tree 25 of 30
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.2s remaining:    0.0s
+building tree 26 of 30
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.2s remaining:    0.0s
+building tree 27 of 30
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.2s remaining:    0.0s
+building tree 28 of 30
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.2s remaining:    0.0s
+building tree 29 of 30
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.2s remaining:    0.0s
+building tree 30 of 30
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.2s finished
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   2 out of   2 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   3 out of   3 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   4 out of   4 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   5 out of   5 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   6 out of   6 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   7 out of   7 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   8 out of   8 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done   9 out of   9 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  10 out of  10 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  11 out of  11 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  12 out of  12 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  13 out of  13 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  14 out of  14 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  15 out of  15 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  16 out of  16 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  17 out of  17 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  18 out of  18 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  19 out of  19 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  21 out of  21 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  22 out of  22 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  23 out of  23 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  24 out of  24 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  25 out of  25 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  26 out of  26 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  27 out of  27 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  28 out of  28 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  29 out of  29 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s remaining:    0.0s
+[Parallel(n_jobs=1)]: Done  30 out of  30 | elapsed:    0.0s finished
+
+
+
+Validation Current Fold LogLoss:  1.191341627322183
+
+================================================================================================
+
+
+

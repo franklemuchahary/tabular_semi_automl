@@ -1,0 +1,13 @@
+ColumName,Type
+fixed acidity,Numeric
+volatile acidity,Numeric
+citric acid,Numeric
+residual sugar,Numeric
+chlorides,Numeric
+free sulfur dioxide,Numeric
+total sulfur dioxide,Numeric
+density,Numeric
+pH,Numeric
+sulphates,Numeric
+alcohol,Numeric
+quality,Categorical

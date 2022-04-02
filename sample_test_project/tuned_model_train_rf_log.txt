@@ -1,0 +1,16 @@
+Model #3
+Best LogLoss : 1.1233
+Best params: {'class_weight': None, 'max_depth': 17, 'max_features': 7, 'min_samples_leaf': 59, 'min_samples_split': 8, 'min_weight_fraction_leaf': 0.09726112001407135, 'n_estimators': 16}
+
+Model #6
+Best LogLoss : 1.1017
+Best params: {'class_weight': None, 'max_depth': 45, 'max_features': 4, 'min_samples_leaf': 96, 'min_samples_split': 27, 'min_weight_fraction_leaf': 0.04053334101359502, 'n_estimators': 11}
+
+Model #9
+Best LogLoss : 1.1017
+Best params: {'class_weight': None, 'max_depth': 45, 'max_features': 4, 'min_samples_leaf': 96, 'min_samples_split': 27, 'min_weight_fraction_leaf': 0.04053334101359502, 'n_estimators': 11}
+
+Model #10
+Best LogLoss : 1.1017
+Best params: {'class_weight': None, 'max_depth': 45, 'max_features': 4, 'min_samples_leaf': 96, 'min_samples_split': 27, 'min_weight_fraction_leaf': 0.04053334101359502, 'n_estimators': 11}
+

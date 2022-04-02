@@ -1,0 +1,13 @@
+ColumName,Type,SecondaryType
+Item_Id,Categorical,Potential ID Column
+Item_Weight,Numeric,
+Item_Fat_Content,Categorical,
+Item_Visibility,Numeric,
+Item_Type,Categorical,
+Item_MRP,Numeric,
+Outlet_Identifier,Categorical,
+Outlet_Establishment_Year,Categorical,
+Outlet_Size,Categorical,
+Outlet_Location_Type,Categorical,
+Outlet_Type,Categorical,
+Item_Outlet_Sales,Numeric,
